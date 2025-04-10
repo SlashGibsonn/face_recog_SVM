@@ -1,0 +1,2 @@
+- Pembuatan model dengan metode SVM
+- Interference dengan face_recognition
