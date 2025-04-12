@@ -29,7 +29,7 @@ def save_output(output_path, frame):
     except:
         print("Gagal menyimpan output")
 
-input_file = "mario_4.jpg" 
+input_file = "test_image.png" 
 
 save_option = input("Simpan output? (y/n): ").lower()
 output_path = None
